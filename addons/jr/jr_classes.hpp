@@ -288,3 +288,7 @@ class asdg_MuzzleSlot_58: asdg_MuzzleSlot { // for 5.8x42 suppressors
         muzzle_snds_58_hex_F = 1;
     };
 };
+
+class asdg_MuzzleSlot_46: asdg_MuzzleSlot { // for 4.6x30 suppressors
+    class compatibleItems {};
+};
